@@ -1,2 +1,0 @@
-# dmayuapparel.github.io
-dmayu
