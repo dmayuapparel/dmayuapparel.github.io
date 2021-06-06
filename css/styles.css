@@ -10010,3 +10010,8 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.list-group-item-1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
